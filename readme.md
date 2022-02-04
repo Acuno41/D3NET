@@ -9,3 +9,8 @@ Tensorflow 1.14**
 git clone https://github.com/Acuno41/D3NET.git
 
 **Detailed readme file will be added soon**
+
+
+
+https://user-images.githubusercontent.com/36124958/152524309-f4a88c04-0d1e-4d4e-a441-cb4efc240805.mp4
+
